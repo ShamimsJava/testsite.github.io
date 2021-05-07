@@ -18,6 +18,7 @@
 
 .shamim-text{
 	text-align: center;
+	font-size: 100%;
 }
 /* Main menu positionning */
 .main-nav {
@@ -177,7 +178,7 @@
 
 .burger-text {
 	display: block;
-	font-size: .675rem;
+	font-size: 1rem;
 	letter-spacing: .05em;
 	margin-top: .5em;
 	text-transform: uppercase;
